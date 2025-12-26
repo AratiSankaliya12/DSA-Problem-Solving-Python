@@ -1,6 +1,7 @@
 """
 Problem: Check Even or Odd
 Difficulty: Easy
+Topic: Logical Thinking
 
 Approach:
 1. Take input number
